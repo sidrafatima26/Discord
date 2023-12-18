@@ -18,12 +18,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/your-username/discord-clone-tailwind.git
+git clone https://github.com/sidrafatima26/Discord.git
 ```
 
 2. Navigate to the project directory.
 ```bash
-cd discord-clone-tailwind
+cd Discord
 ```
 
 3. Install Tailwind following the [steps](https://tailwindcss.com/docs/installation/play-cdn).
